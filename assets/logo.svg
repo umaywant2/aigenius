@@ -1,1 +1,45 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background Gradient -->
+  <defs>
+    <radialGradient id="tfGradient" cx="50%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="60%" stop-color="#4b0082"/>
+      <stop offset="100%" stop-color="#8a2be2"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="512" height="512" fill="url(#tfGradient)" />
+
+  <!-- Gear Icon (Execution Layer) -->
+  <g fill="none" stroke="#ffffff" stroke-width="32" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="256" cy="256" r="96"/>
+    <path d="
+      M256 128
+      L256 64
+
+      M256 448
+      L256 384
+
+      M128 256
+      L64 256
+
+      M448 256
+      L384 256
+
+      M170 170
+      L128 128
+
+      M342 170
+      L384 128
+
+      M170 342
+      L128 384
+
+      M342 342
+      L384 384
+    "/>
+  </g>
+
+</svg>
 
