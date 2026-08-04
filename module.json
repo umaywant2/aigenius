@@ -1,1 +1,69 @@
+{
+  "module": {
+    "name": "aigenius",
+    "summary": "Execution engine for aligned ideas. Converts clarity and alignment into actionable operator blueprints.",
+    "category": "execution-layer",
+    "version": "1.0.0",
+    "purpose": "Transform aligned ideas into structured, coherent, and deployable execution plans across the TriadicFrameworks ecosystem.",
+    "audience": "Operators, builders, system designers, and idea implementers.",
+    "keywords": [
+      "execution",
+      "operator-engine",
+      "triadicframeworks",
+      "rtt",
+      "gradient",
+      "clarity",
+      "alignment",
+      "blueprint",
+      "workflow"
+    ]
+  },
+
+  "roles": {
+    "engine": true,
+    "profile": true,
+    "signature": false,
+    "diagnostic": false,
+    "map": true,
+    "example": true,
+    "extension": true,
+    "index": true,
+    "reference": true,
+    "template": true
+  },
+
+  "analyzer_layers": {
+    "operator": true,
+    "dimensional": true,
+    "regime": true,
+    "drift": false,
+    "coherence": true,
+    "cross-cutting": true
+  },
+
+  "paths": {
+    "src": "./src",
+    "docs": "./docs",
+    "modules": "./modules",
+    "blueprints": "./blueprints",
+    "operators": "./operators"
+  },
+
+  "integration": {
+    "critique": "https://critique.biz",
+    "gradient": "https://gradient.vip",
+    "rtt1": "https://lumen.rtt1.online",
+    "rtt2": "https://hephaestus.rtt2.online",
+    "rtt3": "https://aurion.rtt3.online",
+    "rtt12": "https://harmonia.rtt12.online",
+    "triadicframeworks": "https://www.triadicframeworks.org"
+  },
+
+  "metadata": {
+    "citation_author": "Nawder Loswin",
+    "citation_publication_date": "2025",
+    "license": "Open educational use permitted",
+    "generator": "TriadicFrameworks Canon Metadata Engine"
+  }
+}
 
