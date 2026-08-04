@@ -1,4 +1,8 @@
+<img width="693" height="693" alt="aigenius_logo" src="https://github.com/user-attachments/assets/8da1b0ba-ec1e-4949-88a7-941abf657838" />
+
 # **aigenius — Make your idea win.**
+
+- [`module.json`](https://raw.githubusercontent.com/umaywant2/aigenius/refs/heads/main/module.json) — Agentic module schema role assignments
 
 **aigenius.win** is the *execution layer* of the TriadicFrameworks ecosystem.  
 Where **Critique** gives clarity and **Gradient** gives alignment, **aigenius** gives *momentum* — transforming an aligned idea into a deployable, operational, real‑world outcome.
