@@ -1,1 +1,71 @@
+# ⚙️ **aigenius — Canonical Favicon Specification**
 
+### **Base Identity**
+- **Emoji / glyph:** ⚙️ (gear)  
+- **Meaning:** Operator engine, execution layer, momentum  
+- **Style:** Minimal, monoline, high‑contrast  
+- **Background:** TriadicFrameworks gradient  
+  - black → indigo → violet  
+- **Foreground:** white gear glyph  
+- **No text**  
+- **No labels**  
+- **No RTT symbols** (aigenius is post‑RTT execution)
+
+---
+
+# 🎨 **Master Vector (SVG)**
+Use this description when generating the SVG:
+
+*A minimal monoline gear icon (⚙️) rendered in pure white lines on a black→indigo→violet radial gradient background. No text, no shading, no glow. Crisp geometry, high contrast, execution‑layer identity.*
+
+---
+
+# 📐 **Raster Sizes (ICO Pack)**  
+Export the following PNG sizes and combine them into a single `.ico` file:
+
+- 16×16  
+- 32×32  
+- 48×48  
+- 64×64  
+- 128×128  
+- 256×256  
+
+### **Small sizes (16–32px)**
+- simplified gear  
+- thicker lines  
+- no inner detail  
+
+### **Medium sizes (48–64px)**
+- full gear shape  
+- inner ring allowed  
+
+### **Large sizes (128–256px)**
+- full gear  
+- inner ring  
+- slight dimensional lattice allowed (very subtle)
+
+---
+
+# 🎛 **Color Specification**
+### **Background gradient**
+- **Black:** `#000000`  
+- **Indigo:** `#4b0082`  
+- **Violet:** `#8a2be2`  
+
+### **Foreground glyph**
+- **White:** `#ffffff`  
+- **Stroke width:**  
+  - small sizes: 2–3px  
+  - medium sizes: 4–6px  
+  - large sizes: 8–12px  
+
+---
+
+# 🗂 **Folder Structure**
+You already have:
+
+```
+/aigenius/assets/favicon.ico
+```
+
+Once you generate the `.ico`, upload it directly into this tab and commit.
